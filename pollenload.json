@@ -1,0 +1,102 @@
+{
+  "pollen": {
+    "Ambrosia": {
+      "2023-03-01": {
+        "human": "keine Belastung",
+        "raw": "0",
+        "value": 0.0
+      },
+      "2023-03-02": {
+        "human": "keine Belastung",
+        "raw": "0",
+        "value": 0.0
+      }
+    },
+    "Beifuss": {
+      "2023-03-01": {
+        "human": "keine Belastung",
+        "raw": "0",
+        "value": 0.0
+      },
+      "2023-03-02": {
+        "human": "keine Belastung",
+        "raw": "0",
+        "value": 0.0
+      }
+    },
+    "Birke": {
+      "2023-03-01": {
+        "human": "keine Belastung",
+        "raw": "0",
+        "value": 0.0
+      },
+      "2023-03-02": {
+        "human": "keine Belastung",
+        "raw": "0",
+        "value": 0.0
+      }
+    },
+    "Erle": {
+      "2023-03-01": {
+        "human": "mittlere bis hohe Belastung",
+        "raw": "2-3",
+        "value": 2.5
+      },
+      "2023-03-02": {
+        "human": "hohe Belastung",
+        "raw": "3",
+        "value": 3.0
+      }
+    },
+    "Esche": {
+      "2023-03-01": {
+        "human": "keine Belastung",
+        "raw": "0",
+        "value": 0.0
+      },
+      "2023-03-02": {
+        "human": "keine Belastung",
+        "raw": "0",
+        "value": 0.0
+      }
+    },
+    "Graeser": {
+      "2023-03-01": {
+        "human": "keine Belastung",
+        "raw": "0",
+        "value": 0.0
+      },
+      "2023-03-02": {
+        "human": "keine Belastung",
+        "raw": "0",
+        "value": 0.0
+      }
+    },
+    "Hasel": {
+      "2023-03-01": {
+        "human": "mittlere Belastung",
+        "raw": "2",
+        "value": 2.0
+      },
+      "2023-03-02": {
+        "human": "mittlere Belastung",
+        "raw": "2",
+        "value": 2.0
+      }
+    },
+    "Roggen": {
+      "2023-03-01": {
+        "human": "keine Belastung",
+        "raw": "0",
+        "value": 0.0
+      },
+      "2023-03-02": {
+        "human": "keine Belastung",
+        "raw": "0",
+        "value": 0.0
+      }
+    }
+  },
+  "region_id": 120,
+  "region_name": "Bayern"
+}
